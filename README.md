@@ -7,6 +7,7 @@
 other projects:
 <a href="https://bankshelper.com" >www.bankshelper.com</a>
 <a href="https://pluginfor.com" >www.pluginfor.com</a>
+<a href="https://couponrentals.com" >www.couponrentals.com</a>
 
 
 <!---
