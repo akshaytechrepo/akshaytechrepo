@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving amazing real world problems
 - 🌱 I’m currently learning docker and go
 - 💞️ I’m looking to collaborate on wordpress
-- 📫 How to reach me <a href="https://akshaytech.com" >www.akshaytech.com</a>
+
 
 other projects:
 <a href="https://bankshelper.com" >www.bankshelper.com</a>
